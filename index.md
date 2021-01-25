@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Stylish Portfolio - Start Bootstrap Template"
+---
+
+{% include navigation.html %}
+{% include header.html %}
+{% include about.html %}
+{% include services.html %}
+{% include callout.html %}
+{% include portfolio.html %}
+{% include call-to-action.html %}
+{% include map.html %}
+{% include footer.html %}
+{% include scripts.html %}
